@@ -28,6 +28,7 @@
     <img alt="HTML" width="40px" style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img alt="HTML" width="40px" style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
     <img alt="HTML" width="40px" style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="HTML" width="40px" style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 <br>
 
